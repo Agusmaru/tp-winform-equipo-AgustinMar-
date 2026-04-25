@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TPWinFormApp-AgustinMaru/1.0.0": {
+        "dependencies": {
+          "dominio": "1.0.0",
+          "negocio": "1.0.0"
+        },
+        "runtime": {
+          "TPWinFormApp-AgustinMaru.dll": {}
+        }
+      },
+      "dominio/1.0.0": {
+        "runtime": {
+          "dominio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "negocio/1.0.0": {
+        "dependencies": {
+          "dominio": "1.0.0"
+        },
+        "runtime": {
+          "negocio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPWinFormApp-AgustinMaru/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

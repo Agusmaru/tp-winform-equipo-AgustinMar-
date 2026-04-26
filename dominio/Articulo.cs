@@ -1,14 +1,13 @@
-﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Linq;
 
 namespace dominio
 {
     public class Articulo
     {
-        public Articulo() { 
-            Imagenes = new List<ImagenArticulo>(); 
+        public Articulo()
+        {
+            Imagenes = new List<ImagenArticulo>();
             Marca = new Marca();
             Categoria = new Categoria();
         }
@@ -22,20 +21,19 @@ namespace dominio
         public decimal Precio { get; set; }
         public List<ImagenArticulo> Imagenes { get; set; }
 
-        public string MarcaDescripcion { 
-            get { return Marca != null ? Marca.Descripcion : string.Empty; } 
+        public string MarcaDescripcion
+        {
+            get { return Marca != null ? Marca.Descripcion : string.Empty; }
         }
 
-        public string CategoriaDescripcion {
-            get { return Categoria != null ? Categoria.Descripcion : string.Empty; } 
+        public string CategoriaDescripcion
+        {
+            get { return Categoria != null ? Categoria.Descripcion : string.Empty; }
         }
 
-        public string ImagenPrincipal {
-            get { return Imagenes.FirstOrDefault() != null ? Imagenes.First().ImagenUrl : string.Empty; } 
+        public string ImagenPrincipal
+        {
+            get { return Imagenes.FirstOrDefault() != null ? Imagenes.First().ImagenUrl : string.Empty; }
         }
-
-
-
-
     }
 }

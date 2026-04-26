@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace dominio
 {
     public interface IEntidadDescripcion
     {
-        public int Id { get; set; }
-        public string Descripcion { get; set; }
+        int Id { get; set; }
+        string Descripcion { get; set; }
     }
 }

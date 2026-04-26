@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 
@@ -17,11 +18,14 @@ namespace negocio
 
         public AccesoDatos()
         {
-            string cadenaConexion = "server=.\\SQLEXPRESS; database=CATALOGO_P3_DB; integrated security=true";
-            conexion = new SqlConnection(cadenaConexion);
-            comando = new SqlCommand();
+            string conexionConfigurada = ConfigurationManager.AppSettings["conexion-db"];
+            if (string.IsNullOrWhiteSpace(conexionConfigurada))
+                conexionConfigurada = "server=.\\SQLEXPRESS; database=CATALOGO_P3_DB; integrated security=true";
 
+            conexion = new SqlConnection(conexionConfigurada);
+            comando = new SqlCommand();
         }
+
         public void setearConsulta(string consulta)
         {
             comando.CommandType = CommandType.Text;
@@ -37,7 +41,6 @@ namespace negocio
         public void ejecutarLectura()
         {
             comando.Connection = conexion;
-
             if (conexion.State != ConnectionState.Open)
                 conexion.Open();
 
@@ -47,7 +50,6 @@ namespace negocio
         public int ejecutarAccion()
         {
             comando.Connection = conexion;
-
             if (conexion.State != ConnectionState.Open)
                 conexion.Open();
 
@@ -57,7 +59,6 @@ namespace negocio
         public object ejecutarScalar()
         {
             comando.Connection = conexion;
-
             if (conexion.State != ConnectionState.Open)
                 conexion.Open();
 
@@ -79,10 +80,5 @@ namespace negocio
             comando.Dispose();
             conexion.Dispose();
         }
-
-
-
-
     }
-
 }

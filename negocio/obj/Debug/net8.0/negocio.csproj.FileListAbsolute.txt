@@ -1,0 +1,15 @@
+C:\Users\Catalina\Documents\Programacion3\negocio\obj\Debug\net8.0\negocio.csproj.AssemblyReference.cache
+C:\Users\Catalina\Documents\Programacion3\negocio\obj\Debug\net8.0\negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Documents\Programacion3\negocio\obj\Debug\net8.0\negocio.AssemblyInfoInputs.cache
+C:\Users\Catalina\Documents\Programacion3\negocio\obj\Debug\net8.0\negocio.AssemblyInfo.cs
+C:\Users\Catalina\Documents\Programacion3\negocio\obj\Debug\net8.0\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Documents\Programacion3\negocio\bin\Debug\net8.0\negocio.deps.json
+C:\Users\Catalina\Documents\Programacion3\negocio\bin\Debug\net8.0\negocio.dll
+C:\Users\Catalina\Documents\Programacion3\negocio\bin\Debug\net8.0\negocio.pdb
+C:\Users\Catalina\Documents\Programacion3\negocio\bin\Debug\net8.0\dominio.dll
+C:\Users\Catalina\Documents\Programacion3\negocio\bin\Debug\net8.0\dominio.pdb
+C:\Users\Catalina\Documents\Programacion3\negocio\obj\Debug\net8.0\negocio.csproj.Up2Date
+C:\Users\Catalina\Documents\Programacion3\negocio\obj\Debug\net8.0\negocio.dll
+C:\Users\Catalina\Documents\Programacion3\negocio\obj\Debug\net8.0\refint\negocio.dll
+C:\Users\Catalina\Documents\Programacion3\negocio\obj\Debug\net8.0\negocio.pdb
+C:\Users\Catalina\Documents\Programacion3\negocio\obj\Debug\net8.0\ref\negocio.dll

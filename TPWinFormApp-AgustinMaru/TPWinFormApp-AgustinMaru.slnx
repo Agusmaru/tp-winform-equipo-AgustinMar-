@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="../dominio/dominio.csproj" />
-  <Project Path="../negocio/negocio.csproj" />
-  <Project Path="TPWinFormApp-AgustinMaru.csproj" />
-</Solution>

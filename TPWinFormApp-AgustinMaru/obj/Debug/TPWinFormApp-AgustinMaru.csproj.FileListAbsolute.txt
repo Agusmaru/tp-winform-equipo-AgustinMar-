@@ -1,0 +1,14 @@
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\bin\Debug\TPWinFormApp-AgustinMaru.exe.config
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\bin\Debug\TPWinFormApp-AgustinMaru.exe
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\bin\Debug\TPWinFormApp-AgustinMaru.pdb
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\bin\Debug\dominio.dll
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\bin\Debug\negocio.dll
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\bin\Debug\dominio.pdb
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\bin\Debug\negocio.pdb
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\obj\Debug\TPWinFormApp-AgustinMaru.csproj.AssemblyReference.cache
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\obj\Debug\TPWinFormApp_AgustinMaru.Properties.Resources.resources
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\obj\Debug\TPWinFormApp-AgustinMaru.csproj.GenerateResource.cache
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\obj\Debug\TPWinFormApp-AgustinMaru.csproj.CoreCompileInputs.cache
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\obj\Debug\TPWinFor.D2D42FE3.Up2Date
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\obj\Debug\TPWinFormApp-AgustinMaru.exe
+C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\TPWinFormApp-AgustinMaru\obj\Debug\TPWinFormApp-AgustinMaru.pdb

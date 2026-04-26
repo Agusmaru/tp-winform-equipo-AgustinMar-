@@ -1,6 +1,0 @@
-C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\dominio\bin\Debug\dominio.dll
-C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\dominio\bin\Debug\dominio.pdb
-C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
-C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
-C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\dominio\obj\Debug\dominio.dll
-C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\dominio\obj\Debug\dominio.pdb

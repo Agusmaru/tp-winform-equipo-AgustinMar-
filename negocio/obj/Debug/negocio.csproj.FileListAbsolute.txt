@@ -1,18 +1,9 @@
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\negocio\bin\Debug\negocio.dll
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\negocio\bin\Debug\negocio.pdb
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\negocio\bin\Debug\dominio.dll
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\negocio\bin\Debug\dominio.pdb
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\negocio\obj\Debug\negocio.csproj.Up2Date
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\negocio\obj\Debug\negocio.dll
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\negocio\obj\Debug\negocio.pdb
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\negocio\bin\Debug\negocio.dll
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\negocio\bin\Debug\negocio.pdb
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\negocio\bin\Debug\dominio.dll
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\negocio\bin\Debug\dominio.pdb
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\negocio\obj\Debug\negocio.csproj.Up2Date
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\negocio\obj\Debug\negocio.dll
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\negocio\obj\Debug\negocio.pdb
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\negocio\bin\Debug\negocio.dll
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\negocio\bin\Debug\negocio.pdb
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\negocio\bin\Debug\dominio.dll
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\negocio\bin\Debug\dominio.pdb
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\negocio\obj\Debug\negocio.dll
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\negocio\obj\Debug\negocio.pdb

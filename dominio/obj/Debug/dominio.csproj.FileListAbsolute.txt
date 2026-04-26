@@ -1,12 +1,6 @@
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\dominio\bin\Debug\dominio.dll
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\dominio\bin\Debug\dominio.pdb
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\dominio\obj\Debug\dominio.dll
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\CODEX\dominio\obj\Debug\dominio.pdb
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\dominio\bin\Debug\dominio.dll
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\dominio\bin\Debug\dominio.pdb
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\dominio\obj\Debug\dominio.dll
-C:\Users\agustinm\Documents\UNIVERSIDAD\PROGRA 3 PERO CON IA\TP°1\CODEX\dominio\obj\Debug\dominio.pdb
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\dominio\bin\Debug\dominio.dll
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\dominio\bin\Debug\dominio.pdb
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\dominio\obj\Debug\dominio.dll
+C:\Users\Catalina\Documents\tp-winform-equipo-AgustinMar--main\tp-winform-equipo-AgustinMar--main\dominio\obj\Debug\dominio.pdb
